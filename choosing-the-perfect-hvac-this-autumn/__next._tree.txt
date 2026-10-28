@@ -1,0 +1,4 @@
+:HL["/austclimate-preview/_next/static/css/dfe4fb609ebabc4b.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"choosing-the-perfect-hvac-this-autumn","s":["_not-found","_global-error","apple-icon.png","favicon.ico","icon.png","robots.txt","sitemap.xml","specials"]},"h":65632,"c":"$Q2"}]]
+0:{"b":"lZgb1cs7ektj9S9-HdIr6","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

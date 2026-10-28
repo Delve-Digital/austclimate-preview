@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:I[2407,[],""]
+3:I[7387,[],""]
+4:"static/chunks/703-8413d145011ac508.js"
+5:"static/chunks/558-0ea205e19547dc17.js"
+6:"static/chunks/783-9543905ae199fef9.js"
+7:"static/chunks/app/page-07c49443029772c9.js"
+8:I[7783,["703","$4","558","$5","783","$6","974","$7"],"SiteHeader"]
+9:I[7783,["703","$4","558","$5","783","$6","974","$7"],"SiteFooter"]
+10:I[3390,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[3390,[],"$14"]
+16:"MetadataBoundary"
+17:I[3390,[],"$16"]
+18:I[3259,[],"IconMark"]
+:HL["/austclimate-preview/_next/static/css/dfe4fb609ebabc4b.css","style"]
+b:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L8",null,{}],["$","main",null,{"className":"wrap py-24","children":[["$","p",null,{"className":"eyebrow","children":"Page not found"}],["$","h1",null,{"className":"display mt-4 text-5xl","children":"Let’s get you back to comfort."}],["$","p",null,{"className":"my-6","children":"We couldn’t find that page. Explore our heating and cooling solutions or contact our team."}],["$","div",null,{"className":"flex flex-wrap gap-4","children":[["$","a",null,{"href":"/austclimate-preview/","className":"btn","children":"Back to home"}],["$","a",null,{"href":"/austclimate-preview/contact-us/","className":"btn","children":"Contact us"}]]}]]}],["$","$L9",null,{}]],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$b"}}]]
+c:[["children",{"s":"_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/austclimate-preview/_next/static/css/dfe4fb609ebabc4b.css","precedence":"next"}]],["$","html",null,{"lang":"en-AU","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://austclimate.com.au/#organization\",\"name\":\"Australian Climate Systems\",\"url\":\"https://austclimate.com.au\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://austclimate.com.au/acs-logo-hd.png\"},\"telephone\":\"+61397264444\",\"email\":\"admin@austclimate.com.au\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"1 Ranger Close\",\"addressLocality\":\"Chirnside Park\",\"addressRegion\":\"VIC\",\"postalCode\":\"3116\",\"addressCountry\":\"AU\"}},{\"@type\":\"WebSite\",\"@id\":\"https://austclimate.com.au/#website\",\"url\":\"https://austclimate.com.au\",\"name\":\"Australian Climate Systems\",\"inLanguage\":\"en-AU\",\"publisher\":{\"@id\":\"https://austclimate.com.au/#organization\"}}]}"}}],["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[[["$","$L8",null,{}],["$","main",null,{"className":"wrap py-24","children":[["$","p",null,{"className":"eyebrow","children":"Page not found"}],["$","h1",null,{"className":"display mt-4 text-5xl","children":"Let’s get you back to comfort."}],["$","p",null,{"className":"my-6","children":"We couldn’t find that page. Explore our heating and cooling solutions or contact our team."}],["$","div",null,{"className":"flex flex-wrap gap-4","children":[["$","a",null,{"href":"/austclimate-preview/","className":"btn","children":"Back to home"}],["$","a",null,{"href":"/austclimate-preview/contact-us/","className":"btn","children":"Contact us"}]]}]]}],["$","$L9",null,{}]],[]]}],null]}]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Heating & Cooling Melbourne | Australian Climate Systems"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}],["$","link","2",{"rel":"icon","href":"/austclimate-preview/favicon.ico?60ff851e5117b8ec","type":"image/x-icon","sizes":"16x16"}],["$","link","3",{"rel":"icon","href":"/austclimate-preview/icon.png?59b9aadb0607ced2","type":"image/png","sizes":"512x512"}],["$","link","4",{"rel":"apple-touch-icon","href":"/austclimate-preview/apple-icon.png?2976011ba7d81029","type":"image/png","sizes":"180x180"}],["$","$L18","5",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$b"}},"a":"$@1a","u":"$@1b","b":"lZgb1cs7ektj9S9-HdIr6"}
+12:null
+b:300
+1b:true
+b:C
+1a:0
+d:"$undefined"
+a:"$undefined"
+19:"$undefined"
+13:"$undefined"
