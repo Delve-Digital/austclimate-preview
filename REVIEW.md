@@ -24,6 +24,8 @@ The client website has not launched. The preview pages retain noindex; enquiry f
 
 [Original Brivis summer cashback flyer (PDF)](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/media/promotions/brivis-summer-cashback-2026-27.pdf)
 
+[Readable flyer text](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/ai/brivis-flyer.md)
+
 ## Screenshots
 
 [Homepage desktop](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/ai/screenshots/home-desktop.png)
