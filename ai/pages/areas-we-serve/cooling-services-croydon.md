@@ -35,7 +35,7 @@ Comfort close to home
 
 ## Choosing the Right Heating & Cooling System for Croydon With Australian Climate Systems
 
-Before comparing the differences between electric ducted heating and cooling in Croydon versus gas air conditioning, it’s important to consider the unique aspects of your situation. At Australian Climate Systems, we’re committed to helping you find the perfect heating solution based on:
+When choosing heating and cooling for your Croydon home, it’s important to consider your property and the rooms you want to condition. At Australian Climate Systems, we’re committed to helping you find the perfect heating solution based on:
 
 - Your Individual Circumstances: Understanding that every home and homeowner has distinct needs.
 
@@ -47,27 +47,9 @@ Before comparing the differences between electric ducted heating and cooling in 
 
 - Tailored Solutions: Assessing the specific characteristics of your property to recommend the most suitable system.
 
-With these considerations in mind, let’s explore the differences between electric ducted air conditioning and gas-based systems to give you a preliminary understanding of what each option offers, starting with the two versions of ducted air conditioning in Croydon.
+Electric ducted reverse cycle air conditioning provides both heating and refrigerated cooling. Gas ducted heating provides heating; it does not provide cooling on its own.
 
-Factor Electric Ducted Cooling Gas Ducted Cooling 
-
-Initial CostHigher initial costs for the cooling system, potentially offset by the use of solar panels for energy generation.Typically lower initial costs for the unit and installation.
-
-Running CostsCan be significantly reduced if supplemented with solar energy, otherwise generally higher than gas.Lower than electric cooling without solar supplementation, due to the lower cost of gas.
-
-EfficiencyHigh efficiency in displacing heat; efficiency gains when using renewable energy sources.Efficient in terms of cold output but less efficient in energy use compared to electric cooling.
-
-Environmental ImpactReduced carbon footprint when powered by renewable energy sources, including solar.Higher emissions from burning natural gas, impacting carbon footprint.
-
-MaintenanceLower maintenance needs due to fewer moving parts and no combustion process.Requires regular maintenance for safety and efficiency, including system checks and venting.
-
-InstallationInstallation complexity and costs can vary; simpler in properties already equipped with an electrical infrastructure.Requires access to gas lines, potentially complicating installation in areas without existing infrastructure.
-
-LifespanTypically longer lifespan due to less mechanical wear.May have a shorter lifespan due to the mechanical wear and tear from combustion processes.
-
-Heating QualityConsistent and easily controlled cooling, but effectiveness can vary based on the electricity source's reliability.Known for quick and efficient cooling, often providing a type of cold considered more comfortable.
-
-SafetyGenerally considered safer due to the absence of combustion-related risks.Risks associated with gas leaks and carbon monoxide, necessitating safety measures like detectors.
+A compatible gas ducted heating system may support separate add-on refrigerated cooling. The heater, ductwork, outlets and electrical supply need to be assessed. [Explore add-on cooling](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/ai/pages/cooling/add-on-air-condition.md) or [compare ducted reverse cycle heating and cooling](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/ai/pages/heating/reverse-cycle-heating.md).
 [[03 9726 4444](#page-quote)](tel:03 9726 4444)
 [[Contact Us](#page-quote)](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/ai/pages/contact-us.md)
 

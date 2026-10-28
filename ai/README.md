@@ -1,6 +1,6 @@
 # Australian Climate Systems — preview review
 
-This is the readable companion to the approved website preview, built from commit b1dad7aa62f02ed03a66fddf16aef215901bcb1d. It contains the preview content and SEO metadata, not the older live website.
+This is the readable companion to the website preview, built from commit fe1e228. It contains the preview content and SEO metadata, not the older live website.
 
 Visual website preview: https://delve-digital.github.io/austclimate-preview/
 
@@ -23,8 +23,6 @@ The client website has not launched. The preview pages retain noindex; enquiry f
 ## Promotion document
 
 [Original Brivis summer cashback flyer (PDF)](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/media/promotions/brivis-summer-cashback-2026-27.pdf)
-
-[Readable flyer text](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/ai/brivis-flyer.md)
 
 ## Screenshots
 

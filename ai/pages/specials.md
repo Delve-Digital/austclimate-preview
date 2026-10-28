@@ -45,13 +45,13 @@ Seasonal ducted offer
 
 ## GET SUMMER READY AND SAVE!
 
-Purchase an eligibleGeneral Airstage ducted system and recieve a digital prepaid Mastercard® valued up to $500
+Purchase an eligible GENERAL Airstage ducted system and receive a digital prepaid Mastercard® valued up to $500
 
-Offer valid 1st October 2026 - 11th December 2026 on on eligible Ducted Systems
+Offer valid 1st October 2026 - 11th December 2026 on eligible Ducted Systems
 
 *Purchase by 11/12/26. Claim by 29/01/27. Domestic & residential purposes only. Proof of purchase required.
 
-Eligible models only.T&Cs, exclusions apply.
+Eligible models only. T&Cs, exclusions apply.
 
 Small-room split system
 

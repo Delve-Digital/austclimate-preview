@@ -73,7 +73,7 @@ The advanced technology and energy-efficient features of many ducted reverse cyc
 
 - Total Temperature Control: Reverse cycle systems allow both heating and cooling, and aren’t dependent on the weather outside – so you can enjoy comfortable indoor spaces year-round.
 
-- Energy Efficiency: Our ducted reverse cycle systems boast exceptional performance and are 3 times more energy-efficient than conventional heating and cooling systems.
+- Energy Efficiency: Energy use depends on the selected system, its sizing, installation and how it is operated.
 
 Australian Climate Systems can design and install ducted reverse cycle heating and cooling to suit new or existing homes. Contact us to learn more about zone controlled reverse cycle air conditioning.
 
@@ -153,7 +153,7 @@ We’ll help you choose the right heating and cooling solution for your needs, s
 
 - Panasonic
 
-- Bonair
+- Bonaire
 
 - Braemar
 

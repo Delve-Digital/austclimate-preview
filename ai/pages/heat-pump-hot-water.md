@@ -115,15 +115,14 @@ Incentives depend on current program rules, the property and the system selected
 
 Servicing & support
 
-## Heat Pump Hot Water System: Call Aust Climate!
+## Heat pump hot water
+servicing & support.
 
-If you’re planning on buying a Heat Pump Hot Water, routine checks and proper servicing will ensure it works at its best performance. 
+Routine checks and proper servicing help keep your heat pump hot water system working at its best.
 
-With over 30 years in the business, Australian Climate Systems are fully qualified and trained technicians who check system components, clean filters, and inspect HVAC systems for any signs of wear. We specialise in the sale, installation, service, repair and maintenance of heating and cooling system solutions.
+With over 30 years in the business, Australian Climate Systems can help with heat pump hot water installation, servicing, repairs and maintenance. Ask our team about the checks and servicing recommended for your system.
 
-Give us a call today at [03 9726 4444](tel:03 9726 4444) to learn more about our 6-year workmanship guarantee.
-
-Don’t hesitate to contact Aust Climate for more information!
+Give us a call today at [03 9726 4444](tel:0397264444) to learn more about our 6-year workmanship guarantee.
 
 [Service & maintenance](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/ai/pages/services/services-and-maintenance.md)
 
@@ -147,17 +146,7 @@ Additional original product information
 
 ## Top Heat Pump Hot Water Brands in Victoria
 
-What are some of the benefits of heat pump hot water brands in Victoria?
-
-- Reduced energy bills as it costs less to run than an electric system of the same size.
-
-- Clean, safe and quiet heating as it pushes around dirt, dust, and odours present in your environment.
-
-- Consistent performance as it warms objects in the room (not just the air!) so you can feel warm when the thermostat is set too low.
-
-## Heat Pump Hot Water System: Call Aust Climate!
-
-If you’re planning on buying a Heat Pump Hot Water, routine checks and proper servicing will ensure it works at its best performance. With over 30 years in the business, Australian Climate Systems are fully qualified and trained technicians who check system components, clean filters, and inspect HVAC systems for any signs of wear. We specialise in the sale, installation, service, repair and maintenance of heating and cooling system solutions.
+A heat pump water heater transfers heat from the surrounding air to heat water. Energy use depends on the selected system, installation and household hot water demand.
 
 ![Australian Climate Systems customer service assurance](https://raw.githubusercontent.com/Delve-Digital/austclimate-preview/preview/media/8e647f8d5483-trust04.svg)
 
